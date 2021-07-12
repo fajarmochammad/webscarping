@@ -1,2 +1,2 @@
-# webscarping
-Simple Websraping
+# webscraping
+Simple Webscraping
